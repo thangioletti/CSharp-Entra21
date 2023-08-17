@@ -1,0 +1,15 @@
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/bin/Debug/net7.0/AlunoAprovado
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/bin/Debug/net7.0/AlunoAprovado.deps.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/bin/Debug/net7.0/AlunoAprovado.runtimeconfig.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/bin/Debug/net7.0/AlunoAprovado.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/bin/Debug/net7.0/AlunoAprovado.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.csproj.AssemblyReference.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.AssemblyInfoInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.AssemblyInfo.cs
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.csproj.CoreCompileInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/refint/AlunoAprovado.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/AlunoAprovado.genruntimeconfig.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/AlunoAprovado/obj/Debug/net7.0/ref/AlunoAprovado.dll

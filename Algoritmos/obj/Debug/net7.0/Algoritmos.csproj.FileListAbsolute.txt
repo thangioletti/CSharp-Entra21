@@ -1,0 +1,15 @@
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/bin/Debug/net7.0/Algoritmos
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/bin/Debug/net7.0/Algoritmos.deps.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/bin/Debug/net7.0/Algoritmos.runtimeconfig.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/bin/Debug/net7.0/Algoritmos.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/bin/Debug/net7.0/Algoritmos.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.csproj.AssemblyReference.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.AssemblyInfoInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.AssemblyInfo.cs
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.csproj.CoreCompileInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/refint/Algoritmos.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/Algoritmos.genruntimeconfig.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/Algoritmos/obj/Debug/net7.0/ref/Algoritmos.dll

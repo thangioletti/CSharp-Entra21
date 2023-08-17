@@ -1,0 +1,15 @@
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/bin/Debug/net7.0/PositivoNegativo
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/bin/Debug/net7.0/PositivoNegativo.deps.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/bin/Debug/net7.0/PositivoNegativo.runtimeconfig.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/bin/Debug/net7.0/PositivoNegativo.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/bin/Debug/net7.0/PositivoNegativo.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.csproj.AssemblyReference.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.AssemblyInfoInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.AssemblyInfo.cs
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.csproj.CoreCompileInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/refint/PositivoNegativo.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/PositivoNegativo.genruntimeconfig.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/PositivoNegativo/obj/Debug/net7.0/ref/PositivoNegativo.dll

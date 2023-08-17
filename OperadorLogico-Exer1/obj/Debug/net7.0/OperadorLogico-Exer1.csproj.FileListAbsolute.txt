@@ -1,0 +1,15 @@
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/bin/Debug/net7.0/OperadorLogico-Exer1
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/bin/Debug/net7.0/OperadorLogico-Exer1.deps.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/bin/Debug/net7.0/OperadorLogico-Exer1.runtimeconfig.json
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/bin/Debug/net7.0/OperadorLogico-Exer1.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/bin/Debug/net7.0/OperadorLogico-Exer1.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.csproj.AssemblyReference.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.AssemblyInfoInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.AssemblyInfo.cs
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.csproj.CoreCompileInputs.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/refint/OperadorLogico-Exer1.dll
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.pdb
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/OperadorLogico-Exer1.genruntimeconfig.cache
+/Users/tiagohenriqueangioletti/Projects/Algoritmos/OperadorLogico-Exer1/obj/Debug/net7.0/ref/OperadorLogico-Exer1.dll

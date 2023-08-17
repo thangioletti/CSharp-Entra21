@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{27D97556-D435-4D90-A0EA-84FB73DCA3D0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoSimples-Exer5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoComposta-Exer5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OperadorLogico-Exer1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoSimples-Exer4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OperadorLogico-Exer2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoComposta-Exer1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoComposta-Exer4 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HelloWord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoSimples-Exer2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OperadorLogico-Exer3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoComposta-Exer2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OperadorLogico-Exer5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoSimples-Exer1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CondicaoComposta-Exer3 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algoritmos/Program.cs">
+    <Files>
+      <File FileName="PositivoNegativo/Program.cs" Line="12" Column="2" />
+      <File FileName="MaiorIdade/Program.cs" Line="9" Column="2" />
+      <File FileName="ParImpar/Program.cs" Line="10" Column="2" />
+      <File FileName="Algoritmos/Program.cs" Line="1" Column="34" />
+      <File FileName="AlunoAprovado/Program.cs" Line="9" Column="15" />
+      <File FileName="Multiplo5/Program.cs" Line="13" Column="1" />
+      <File FileName="IMC/Program.cs" Line="22" Column="2" />
+      <File FileName="OperadorLogico-Exer1/Program.cs" Line="15" Column="2" />
+      <File FileName="OperadorLogico-Exer2/Program.cs" Line="20" Column="34" />
+      <File FileName="OperadorLogico-Exer3/Program.cs" Line="10" Column="50" />
+      <File FileName="OperadorLogico-Exer4/Program.cs" Line="13" Column="30" />
+      <File FileName="OperadorLogico-Exer5/Program.cs" Line="15" Column="9" />
+      <File FileName="CondicaoComposta-Exer3/Program.cs" Line="8" Column="27" />
+      <File FileName="CondicaoComposta-Exer4/Program.cs" Line="11" Column="24" />
+      <File FileName="CondicaoComposta-Exer5/Program.cs" Line="17" Column="47" />
+      <File FileName="CondicaoComposta-Exer2/Program.cs" Line="10" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algoritmos" expanded="True">
+            <Node name="OperadorLogico-Exer1" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OperadorLogico-Exer4 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CondicaoSimples-Exer3 FirstBuild="True" />
+</Properties>
